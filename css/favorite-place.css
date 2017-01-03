@@ -1,0 +1,28 @@
+h1 {
+  color: #B40404;
+  text-align: center;
+}
+h3 {
+  color: #088A85;
+  text-align: center;
+}
+p {
+  font-style: sans-serif;
+  text-align: center;
+}
+div{
+  height: 500px;
+  width: 100%
+}
+
+.stretch {
+  width: 100%;
+  height: 100%;
+}
+a {
+  color: #FA58F4;
+}
+.centered {
+  text-align: center;
+  list-style-position: inside;
+}
